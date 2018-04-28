@@ -18,6 +18,9 @@
 ### Divide and Conquer,
 169. Majority Element
 
+### Array,
+1.   Two Sum
+
 4/25/2018
 
 4/26/2018
