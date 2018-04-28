@@ -15,8 +15,11 @@
 ### BFS,
 690. Employee Importance
 
-
+### Divide and Conquer,
+169. Majority Element
 
 4/25/2018
+
 4/26/2018
-4/28/2018
+
+4/28/2018 - both dp easy, divide and conquer easy done!
