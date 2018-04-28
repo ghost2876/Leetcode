@@ -8,5 +8,15 @@
 ### DFS,
 104. Maximum Depth of Binary Tree
 695. Max Area of Island
+53.  Maximum Subarray
+198. House Robber
+303. Range Sum Query - Immutable
+
+### BFS,
+690. Employee Importance
+
+
 
 4/25/2018
+4/26/2018
+4/28/2018
