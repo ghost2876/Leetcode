@@ -23,6 +23,10 @@
 
 ### Linked List,
 237. Delete Node in a Linked List
+206. Reverse Linked List
+21. Merge Two Sorted Lists
+83. Remove Duplicates from Sorted List
+141. Linked List Cycle
 
 4/25/2018
 
