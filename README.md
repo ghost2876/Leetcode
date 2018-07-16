@@ -1,26 +1,26 @@
 # Leetcode
 
-### Database (SQL)
-All unlocked questions solved on 7/15/2018, includes:
-175. Combine Two Tables
-176. Second Highest Salary
-177. Nth Highest Salary
-178. Rank Scores
-180. Consecutive Numbers
-181. Employees Earning More Than Their Managers
-182. Duplicate Emails
-183. Customers Who Never Order
-184. Department Highest Salary
-185. Department Top Three Salaries
-196. Delete Duplicate Emails
-197. Rising Temperature
-262. Trips and Users
-595. Big Countries
-596. Classes More Than 5 Students
-601. Human Traffic of Stadium
-620. Not Boring Movies
-626. Exchange Seats
-627. Swap Salary
+### Database (SQL),
+All unlocked questions solved on 7/15/2018, includes: <br />
+175. Combine Two Tables <br />
+176. Second Highest Salary <br />
+177. Nth Highest Salary <br />
+178. Rank Scores <br />
+180. Consecutive Numbers <br />
+181. Employees Earning More Than Their Managers <br />
+182. Duplicate Emails <br />
+183. Customers Who Never Order <br />
+184. Department Highest Salary <br />
+185. Department Top Three Salaries <br />
+196. Delete Duplicate Emails <br />
+197. Rising Temperature <br />
+262. Trips and Users <br />
+595. Big Countries <br />
+596. Classes More Than 5 Students <br />
+601. Human Traffic of Stadium <br />
+620. Not Boring Movies <br />
+626. Exchange Seats <br />
+627. Swap Salary <br />
 
 ### Dynamic Programming,
 121. Best Time to Buy and Sell Stock
