@@ -41,7 +41,7 @@ All unlocked questions solved on 7/15/2018, includes:
 169. Majority Element
 
 ### Array,
-1.   Two Sum
+1. Two Sum
 
 ### Linked List,
 237. Delete Node in a Linked List
